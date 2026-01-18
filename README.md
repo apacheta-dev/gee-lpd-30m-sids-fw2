@@ -8,4 +8,6 @@ The application implements version 2 of the Food and Agriculture Organization-Wo
 
 The Real-time 30m LPD map for SIDS application is accessible at: https://apacheta.projects.earthengine.app/view/lpd-realtime-sids
 
+<img width="1853" height="932" alt="image" src="https://github.com/user-attachments/assets/0d4cc0a7-59e1-4513-b3bc-e09c43a18a89" />
+
 Google Earth Engine users can add the same repository to the Code Editor using this [link](https://code.earthengine.google.com/?accept_repo=users/apacheta/LPD_for_SIDS_FW2).
