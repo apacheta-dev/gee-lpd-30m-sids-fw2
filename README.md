@@ -1,6 +1,6 @@
 <img width="1909" height="140" alt="GEE_CI_Apacheta_PISLM_GEF" src="https://github.com/user-attachments/assets/9d579b8e-b3f8-4f93-8102-fb370cb4ee30" />
 
-# Real-time 30m LPD map for SIDS
+# LPD 30m and Real-time App for SIDS
 
 [![DOI](https://github.com/user-attachments/assets/ae8c3f21-d1c6-4bc6-a75e-dbc1fd12a65b)](https://doi.org/10.5281/zenodo.15276519)
 
